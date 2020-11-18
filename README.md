@@ -45,7 +45,6 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 ### Calendário Projeto
 
 
-
 | nº        |  Data Inicial |  Data Final | Progresso App  | Progresso API |
 |---|---|---|---|---|
 |Sprint 1   | 07/09/2020 | 20/09/2020     | N/A  | N/A |
@@ -55,28 +54,20 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Sprint 5   | 02/11/2020 | 15/11/2020     | [Milestone](https://github.com/FATEC-SJC-NoName/back-chat-app/milestone/3)  | [Milestone](https://github.com/FATEC-SJC-NoName/front-chat-app/milestone/3) |
 |Sprint 6   | 16/11/2020 | 29/11/2020     | [Milestone](https://github.com/FATEC-SJC-NoName/back-chat-app/milestone/4)  |  [Milestone](https://github.com/FATEC-SJC-NoName/front-chat-app/milestone/4) |
 
-### Quadro do projeto
+### Quadro do produto
 
 [Kaban](https://github.com/orgs/FATEC-SJC-NoName/projects/1)
 
 
-### Comparação Burndown entre Sprints
+### Links dos Projetos
 
-Burndown Sprint 1
+- [Back](https://github.com/FATEC-SJC-NoName/back-chat-app/)
 
-![Burndown sprint-1](https://github.com/FatecSJC-PI-Time10/documentos/burndowns/sprint1.png)
+- [Front](https://github.com/FATEC-SJC-NoName/front-chat-app/)
 
+- [Mobile](https://github.com/FATEC-SJC-NoName/mobile-chat-app)
 
-Burndown Sprint 2
-
-![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/burndowns/sprint2.pngg)
-
-
-Burndown Sprint 3
-
-![Burndown sprint-3](https://github.com/FatecSJC-PI-Time10/documentos/burndowns/sprint3.png)
-
-
+- [ChatBot](https://github.com/FATEC-SJC-NoName/bot-chat-app)
 
 
 ### Lista dos Profissionais para o desenvolvimento do projeto
@@ -86,9 +77,7 @@ Burndown Sprint 3
 | Nome        |  Função |  Perfil Git |   |   
 |---|---|---|---|
 |Gabriel Menacho  | Scrum Master| https://github.com/menachosjc    |   |   
-|Celso Reis  | Product Owner | https://github.com/JoeReis1983    |   |   
-|Paulo Keller  | Desenvolvedor| https://github.com/PauloKeller    |   |   
-|Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |  
-|Cauan Almeida | Desenvolvedor | https://github.com/Tsundek     |   |   
+|Paulo Keller  | Product Owner| https://github.com/PauloKeller    |   |   
+|Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |
 |Toni William  | Desenvolvedor | https://github.com/toniprado    |   |  
 |Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
