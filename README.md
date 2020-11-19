@@ -34,14 +34,6 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 * BANCO DE DADOS RELACIONAL - MYSQL
 * DOCUMENTAÇÕES
 
-
-### PROTOTIPAÇÃO
-
-
-![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint1/entregas/prototipo_v1.0.png)
-
-
-
 ### Calendário Projeto
 
 
