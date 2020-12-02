@@ -73,3 +73,11 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |
 |Toni William  | Desenvolvedor | https://github.com/toniprado    |   |  
 |Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
+
+
+
+
+### Framework de suporte
+
+
+[![BR 0:00 / 6:41 FreshDesk](http://img.youtube.com/vi/oP_UhuUhTG0/0.jpg)](http://www.youtube.com/watch?v=oP_UhuUhTG0 "BR 0:00 / 6:41 FreshDesk")
